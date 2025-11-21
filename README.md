@@ -30,6 +30,8 @@ __Algorithm__:
 
 <img width="1280" height="931" alt="517230953-1da66a72-8fe2-416c-b53f-64abf9078196" src="https://github.com/user-attachments/assets/5eb509c4-00a9-47b9-b950-13259dc6ec13" />
 
+
+
  __Result__:
 
 Thus the amplitude modulation (AM) using Python's NumPy and Matplotlib libraries was succesfully executed and its output is verfied.
